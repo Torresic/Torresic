@@ -38,4 +38,8 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 
 <hr style="border:2px solid #666666">
 
+### 😂 Fun Time
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [![](https://visitcount.itsvg.in/api?id=Torresic&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
