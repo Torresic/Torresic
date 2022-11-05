@@ -1,4 +1,4 @@
-<img src="https://github.com/Torresic/Torresic/blob/main/giphy.gif" width="100%" height="250"/>
+<img src="https://github.com/Torresic/Torresic/blob/main/giphy.gif" width="100%" height="500"/>
 
 ### Hi there 👋
 I'm Ismael, I'm 20 years old from Spain.
