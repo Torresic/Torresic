@@ -40,6 +40,11 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 
 ### 😂 Fun Time
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+  <a href="https://skillicons.dev">
+    ![Jokes Card](https://readme-jokes.vercel.app/api)
+  </a>
+</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=Torresic&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
