@@ -6,7 +6,11 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 
 ### 🌐 Profiles:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaelcaballerotorres/) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <hr style="border:2px solid #666666">
 
@@ -39,12 +43,8 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 <hr style="border:2px solid #666666">
 
 ### 😂 Fun Time
-
-<p align="center">
+   
+![Jokes Card](https://readme-jokes.vercel.app/api)
     
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
-    
-</p>
-
 
 [![](https://visitcount.itsvg.in/api?id=Torresic&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
