@@ -4,6 +4,11 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 
 <hr style="border:2px solid gray">
 
+### Tech Stack
+
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+
+
 ### GitHub Stats
 
 ![Torresic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torresic&show_icons=true&theme=dracula)
