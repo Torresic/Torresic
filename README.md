@@ -32,4 +32,4 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 
 <hr style="border:2px solid gray">
 
-![](https://komarev.com/ghpvc/?username=Torresic)
+[![](https://visitcount.itsvg.in/api?id=Torresic&icon=0&color=0)](https://visitcount.itsvg.in)
