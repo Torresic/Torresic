@@ -32,4 +32,4 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 
 <hr style="border:2px solid gray">
 
-[![](https://visitcount.itsvg.in/api?id=Torresic&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Torresic&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
