@@ -3,9 +3,8 @@ I'm Ismael, I'm 20 years old from Spain.
 I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer creating my own project to promote rural areas.
 
 ### 🌐 Profiles:
-<a href="href="https://www.linkedin.com/in/ismaelcaballerotorres/"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismaelcaballerotorres/) 
 
 
 <hr style="border:2px solid gray">
