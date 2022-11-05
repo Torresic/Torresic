@@ -41,9 +41,9 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 ### 😂 Fun Time
 
 <p align="center">
-  <a href="https://skillicons.dev">
+    
     ![Jokes Card](https://readme-jokes.vercel.app/api)
-  </a>
+    
 </p>
 
 
