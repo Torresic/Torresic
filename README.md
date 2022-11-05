@@ -7,6 +7,8 @@ I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer 
 ### GitHub Stats
 
 ![Torresic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torresic&show_icons=true&theme=dracula)
+![Torresic's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Torresic&theme=dracula&hide_border=true)<br/>
+![Torresic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Torresic&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
 
