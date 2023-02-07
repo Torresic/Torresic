@@ -1,8 +1,8 @@
 <img src="https://github.com/Torresic/Torresic/blob/main/giphy.gif" width="100%" height="500"/>
 
 ### Hi there 👋
-I'm Ismael, I'm 20 years old from Spain.
-I'm a Junior Front-end Developer, Android Developer (Kotlin) and UI/UX Designer creating my own project to promote rural areas.
+I'm Ismael, I'm a 20 years old from Spain.
+I'm a Junior Front-end Developer, with Android Development (Kotlin) and UI/UX Design knowledge creating my own project to promote rural areas.
 
 ### 🌐 Profiles:
 
